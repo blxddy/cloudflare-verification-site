@@ -1,0 +1,14 @@
+{
+  "name": "cloudflare-verification-site",
+  "version": "1.0.0",
+  "description": "A fake Cloudflare verification page that doesn't phish you",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "author": "blxddy"
+}

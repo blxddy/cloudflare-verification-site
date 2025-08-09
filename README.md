@@ -12,3 +12,10 @@ Feel free to make PRs if you want to add anything or change anything, and also f
 Apologies for the short readme as well, feel free to open an issue or PR if you want something changed or added here as well.
 
 Also, if you're smoeone who wants to use this maliciously, move along. I did not make this to help you out. Go find someone else to steal it from.
+
+---
+
+## Disclaimer
+This project is an independent, educational imitation of a Cloudflare Turnstile-style verification UI. It is not affiliated with, endorsed by, or sponsored by Cloudflare, Inc. "Cloudflare" and any related trademarks, logos, or brand names are the property of Cloudflare, Inc. and are used here solely for descriptive/reference purposes. Remove any Cloudflare branding if required by their terms or if you redistribute in a context where such use could cause confusion.
+
+Do not use this project for malicious, deceptive, or unauthorized activity. I (blxddy) am not responsible for misuse. Use at your own risk.
